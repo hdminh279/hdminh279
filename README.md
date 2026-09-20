@@ -26,17 +26,19 @@
 
 <div align="center">
 
-|     | Tech Stack                                                                                                                                                                                  |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  💻 | <img src="https://skillicons.dev/icons?i=python" height="32"/> <img src="https://skillicons.dev/icons?i=postgres" height="32"/>                                                             |
-|  ⚙️ | <img src="https://skillicons.dev/icons?i=spark" height="32"/> <img src="https://skillicons.dev/icons?i=apache" height="32"/> <img src="https://skillicons.dev/icons?i=duckdb" height="32"/> |
-|  🔄 | <img src="https://skillicons.dev/icons?i=airflow" height="32"/> <img src="https://skillicons.dev/icons?i=dbt" height="32"/>                                                                 |
-|  🌊 | <img src="https://skillicons.dev/icons?i=kafka" height="32"/> <img src="https://skillicons.dev/icons?i=flink" height="32"/>                                                                 |
-|  ☁️ | <img src="https://skillicons.dev/icons?i=aws,gcp" height="32"/>                                                                                                                             |
-|  🐳 | <img src="https://skillicons.dev/icons?i=docker,terraform,git,linux" height="32"/>                                                                                                          |
-|  🧠 | <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,pytorch,tensorflow" height="32"/>                                                                                             |
-|  🤖 | **Machine Learning · Deep Learning · NLP · AI Agents**                                                                                                                                      |
-|  📓 | <img src="https://skillicons.dev/icons?i=jupyter" height="32"/>                                                                                                                             |
+## 🛠️ Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages & DB** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Big Data Processing** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) |
+| **Orchestration & Transformation** | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) |
+| **Streaming Systems** | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white) |
+| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Data Science & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **Deep Learning & AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **AI Focus** | **Autonomous AI Agents · RAG · LLMs · Multi-Agent Systems** |                                                                                                                        |
 
 </div>
 
